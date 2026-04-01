@@ -1,7 +1,5 @@
-# Finance-Data-Processing-and-Access-Control-Backend
+# Finance-Data-Processing-and-Access-Control-Backend (Django + GraphQL)
 
-
-# 💰 Finance Dashboard Backend (Django + GraphQL)
 
 ## 🎯 Objective
 
